@@ -8,6 +8,7 @@ class WorkshopsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		ERROR e  - new eerr;
 	}
 
 }
